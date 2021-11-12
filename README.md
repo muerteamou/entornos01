@@ -1,2 +1,2 @@
-# repositorio entornos01
+# repositorio de entornos01
 Es mi repositorio inicial de entornos de desarrollo
